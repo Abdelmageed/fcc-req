@@ -1,0 +1,23 @@
+{
+  "name": "fcc-req",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp - API Challenges (2)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelmageed/fcc-req.git"
+  },
+  "author": "Abdelmageed Sayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelmageed/fcc-req/issues"
+  },
+  "homepage": "https://github.com/Abdelmageed/fcc-req#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-favicon": "^2.3.2"
+  }
+}
